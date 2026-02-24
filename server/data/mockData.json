@@ -1,0 +1,182 @@
+[
+    {
+        "id": "mock-1",
+        "title": "AI Revolution: How Large Language Models Are Transforming Software Development",
+        "description": "The latest advancements in AI-powered coding assistants are reshaping how developers write, debug, and deploy code. From automated testing to intelligent code reviews, the industry is witnessing a paradigm shift.",
+        "source": "TechCrunch",
+        "category": "technology",
+        "published_at": "2026-02-24T08:00:00Z",
+        "image_url": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=600",
+        "article_url": "https://techcrunch.com"
+    },
+    {
+        "id": "mock-2",
+        "title": "Global Markets Rally as Central Banks Signal Rate Cuts",
+        "description": "Stock markets worldwide surged after multiple central banks indicated a shift toward monetary easing. Investors are optimistic about economic growth prospects for the remainder of the year.",
+        "source": "Bloomberg",
+        "category": "finance",
+        "published_at": "2026-02-24T07:30:00Z",
+        "image_url": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=600",
+        "article_url": "https://bloomberg.com"
+    },
+    {
+        "id": "mock-3",
+        "title": "Startup Raises $50M to Build Next-Generation Quantum Computing Platform",
+        "description": "A Silicon Valley startup has secured Series B funding to accelerate development of fault-tolerant quantum processors, aiming to make quantum computing accessible to enterprises by 2027.",
+        "source": "VentureBeat",
+        "category": "startups",
+        "published_at": "2026-02-24T06:45:00Z",
+        "image_url": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?w=600",
+        "article_url": "https://venturebeat.com"
+    },
+    {
+        "id": "mock-4",
+        "title": "Electric Vehicle Sales Surpass Combustion Engine Cars in Europe",
+        "description": "For the first time in history, electric vehicle sales have exceeded traditional combustion engine car sales across the European market, marking a milestone in the green energy transition.",
+        "source": "Reuters",
+        "category": "business",
+        "published_at": "2026-02-24T06:00:00Z",
+        "image_url": "https://images.unsplash.com/photo-1593941707882-a5bba14938c7?w=600",
+        "article_url": "https://reuters.com"
+    },
+    {
+        "id": "mock-5",
+        "title": "Breakthrough in Nuclear Fusion Could Provide Unlimited Clean Energy",
+        "description": "Scientists have achieved a major milestone in nuclear fusion research, sustaining a reaction for over 10 minutes. This breakthrough brings humanity closer to unlimited, clean energy.",
+        "source": "Nature",
+        "category": "technology",
+        "published_at": "2026-02-23T22:00:00Z",
+        "image_url": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=600",
+        "article_url": "https://nature.com"
+    },
+    {
+        "id": "mock-6",
+        "title": "Cryptocurrency Market Cap Hits $4 Trillion Amid Institutional Adoption",
+        "description": "The total cryptocurrency market capitalization has reached an all-time high as major financial institutions launch crypto products and Bitcoin ETFs see record inflows.",
+        "source": "CoinDesk",
+        "category": "finance",
+        "published_at": "2026-02-23T20:15:00Z",
+        "image_url": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?w=600",
+        "article_url": "https://coindesk.com"
+    },
+    {
+        "id": "mock-7",
+        "title": "New Health-Tech Startup Uses AI to Predict Disease Outbreaks",
+        "description": "A newly launched startup is leveraging machine learning and satellite data to predict disease outbreaks weeks in advance, potentially saving thousands of lives globally.",
+        "source": "Wired",
+        "category": "startups",
+        "published_at": "2026-02-23T18:30:00Z",
+        "image_url": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=600",
+        "article_url": "https://wired.com"
+    },
+    {
+        "id": "mock-8",
+        "title": "Apple Unveils Mixed Reality Headset with Holographic Display",
+        "description": "Apple has announced its next-generation mixed reality device featuring holographic projection technology, positioning itself at the forefront of spatial computing.",
+        "source": "The Verge",
+        "category": "technology",
+        "published_at": "2026-02-23T16:00:00Z",
+        "image_url": "https://images.unsplash.com/photo-1622979135225-d2ba269cf1ac?w=600",
+        "article_url": "https://theverge.com"
+    },
+    {
+        "id": "mock-9",
+        "title": "Global Supply Chain Disruptions Ease as Shipping Costs Drop 40%",
+        "description": "International shipping costs have fallen significantly, signaling a return to normalcy in global supply chains. Businesses across industries are expected to benefit from lower logistics expenses.",
+        "source": "Financial Times",
+        "category": "business",
+        "published_at": "2026-02-23T14:00:00Z",
+        "image_url": "https://images.unsplash.com/photo-1494412574643-ff11b0a5eb19?w=600",
+        "article_url": "https://ft.com"
+    },
+    {
+        "id": "mock-10",
+        "title": "SpaceX Successfully Launches First Commercial Space Station Module",
+        "description": "SpaceX has launched the first module of a privately funded space station, opening the door to commercial space habitation and research opportunities in low Earth orbit.",
+        "source": "Space.com",
+        "category": "technology",
+        "published_at": "2026-02-23T12:00:00Z",
+        "image_url": "https://images.unsplash.com/photo-1516849841032-87cbac4d88f7?w=600",
+        "article_url": "https://space.com"
+    },
+    {
+        "id": "mock-11",
+        "title": "Autonomous Drone Delivery Networks Expand to 50 Cities",
+        "description": "Drone delivery services have expanded rapidly, now covering 50 major cities worldwide. Companies report faster delivery times and reduced carbon emissions compared to traditional methods.",
+        "source": "MIT Technology Review",
+        "category": "ai",
+        "published_at": "2026-02-23T10:00:00Z",
+        "image_url": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=600",
+        "article_url": "https://technologyreview.com"
+    },
+    {
+        "id": "mock-12",
+        "title": "Major Banks Deploy AI for Real-Time Fraud Detection",
+        "description": "Leading global banks are implementing advanced AI systems capable of detecting fraudulent transactions in real-time, reducing fraud losses by up to 70% in pilot programs.",
+        "source": "Forbes",
+        "category": "finance",
+        "published_at": "2026-02-23T08:00:00Z",
+        "image_url": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=600",
+        "article_url": "https://forbes.com"
+    },
+    {
+        "id": "mock-13",
+        "title": "Climate Tech Startups Attract Record $80B in Funding",
+        "description": "Investment in climate technology startups has reached $80 billion this year, with clean energy, carbon capture, and sustainable agriculture leading the charge.",
+        "source": "TechCrunch",
+        "category": "startups",
+        "published_at": "2026-02-22T20:00:00Z",
+        "image_url": "https://images.unsplash.com/photo-1497436072909-60f360e1d4b1?w=600",
+        "article_url": "https://techcrunch.com"
+    },
+    {
+        "id": "mock-14",
+        "title": "World Economic Forum Predicts Major Shift in Global Trade Patterns",
+        "description": "The WEF has released a new report predicting significant changes in global trade routes and partnerships over the next decade, driven by geopolitical shifts and technology adoption.",
+        "source": "BBC News",
+        "category": "general",
+        "published_at": "2026-02-22T16:00:00Z",
+        "image_url": "https://images.unsplash.com/photo-1526304640581-d334cdbbf45e?w=600",
+        "article_url": "https://bbc.com"
+    },
+    {
+        "id": "mock-15",
+        "title": "New Programming Language 'Mojo' Gains Traction in AI Development",
+        "description": "Mojo, a programming language designed for AI workloads, has rapidly gained adoption among developers for its performance advantages over Python while maintaining compatibility.",
+        "source": "InfoWorld",
+        "category": "ai",
+        "published_at": "2026-02-22T12:00:00Z",
+        "image_url": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=600",
+        "article_url": "https://infoworld.com"
+    },
+    {
+        "id": "mock-16",
+        "title": "Remote Work Revolution: Companies Report Higher Productivity in 2026",
+        "description": "A comprehensive global survey reveals that companies embracing remote and hybrid work models are seeing up to 25% higher productivity compared to fully in-office setups.",
+        "source": "Harvard Business Review",
+        "category": "business",
+        "published_at": "2026-02-22T10:00:00Z",
+        "image_url": "https://images.unsplash.com/photo-1587614382346-4ec70e388b28?w=600",
+        "article_url": "https://hbr.org"
+    },
+    {
+        "id": "mock-17",
+        "title": "Google DeepMind Achieves Breakthrough in Protein Structure Prediction",
+        "description": "DeepMind's latest AI model can now accurately predict the structure of virtually any protein, accelerating drug discovery and biological research worldwide.",
+        "source": "Science Daily",
+        "category": "ai",
+        "published_at": "2026-02-21T18:00:00Z",
+        "image_url": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=600",
+        "article_url": "https://sciencedaily.com"
+    },
+    {
+        "id": "mock-18",
+        "title": "India's Digital Economy Set to Reach $1 Trillion by 2028",
+        "description": "India's booming tech sector and digital infrastructure investments are projected to propel the country's digital economy to the $1 trillion milestone within two years.",
+        "source": "Economic Times",
+        "category": "general",
+        "published_at": "2026-02-21T14:00:00Z",
+        "image_url": "https://images.unsplash.com/photo-1524492412937-b28074a5d7da?w=600",
+        "article_url": "https://economictimes.com"
+    }
+]
